@@ -1,5 +1,5 @@
 # TOS-4
 
-ping issue solved
+added plasma and applications
 
 now can build ISO with ./build.sh
