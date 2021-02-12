@@ -119,5 +119,9 @@ xdg-user-dirs
 #discover
 sddm
 bash-completion
-#grub
 networkmanager
+
+#Installer
+calamares
+TOS-calamares-config
+grub
