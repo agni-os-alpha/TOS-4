@@ -1,1 +1,1 @@
-sudo mkarchiso - /home/demonkiller/Files/Projects/ThakurOS/TOS-4
+sudo mkarchiso -v /home/demonkiller/Files/Projects/ThakurOS/TOS-4
