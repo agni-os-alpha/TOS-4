@@ -28,7 +28,7 @@ sed -i 's/#\(HandleLidSwitch=\)suspend/\1ignore/' /etc/systemd/logind.conf
 systemctl enable pacman-init.service choose-mirror.service systemd-networkd.service systemd-resolved.service
 systemctl set-default graphical.target
 systemctl enable sddm.service
-
+systemctl enable NetworkManager.service
 
 groupscarli="adm,audio,disk,floppy,log,network,optical,rfkill,storage,video,wheel,sys"
 useradd -m -g users -G $groupscarli -s /bin/bash liveuser
