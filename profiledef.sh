@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="thakuros"
-iso_label="thakur_$(date +%Y%m)"
+iso_label="thakuros_$(date +%Y%m)"
 iso_publisher="Thakur OS <http://www.thakuros.org>"
 iso_application="Thakur OS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
